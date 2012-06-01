@@ -1,13 +1,13 @@
 # php-PhotoAlbum
 
-##Description
+## Description
 A php Library that will easily allow you to implement a photo album on a given webpage.
 
-##TODOs: A lot. 
+## TODOs: A lot. 
 
 TODO: Fill in some meaningful TODOs.
 
-##Contributors:
+## Contributors:
 
 Kyle Olive (kolive)
 
